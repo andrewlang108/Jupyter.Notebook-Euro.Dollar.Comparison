@@ -1,5 +1,5 @@
 # j-euro-dollar
-Jupyter notebook of the Euro-Dollar project
+This is a guided project, completed following prompts given through a course by DataQuest.
 
 ## Overview
 This notebook shows my work in completing a guided project through Dataquest. A csv file ("euro-daily-hist_1999_2022.csv") was provided which contains data points of the value of the Euro compared to the values of various other currencies from around the world. Instructions were provided from Dataquest to create a line graph that compares the value of the Euro to the USD over time. Design choices and data interpretation was left ambiguous so I could draw my own conclusions.
